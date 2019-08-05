@@ -18,3 +18,7 @@ Inputs can be entered in the following lines in shuttle_service.py
  	Passenger arrival rate: Line 19
 	Bus Properties: Lines 154 and 155
 	Choice of Bus: and bus wait time: Lines 165-166
+	
+	
+	
+Please see pdf report file for detailed descrition of simulation and analysis of results.
