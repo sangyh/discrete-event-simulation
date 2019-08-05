@@ -1,0 +1,1355 @@
+PASSENGER ARRIVAL EVENT @  0
+Tot pass: 1
+Final event list: [('HBE', 0), ('PArr', 0.35184196898064596)]
+----------------------------
+PASSENGER BOARDING EVENT @  0
+Total PBwait: 0.0
+Len of boarded group 1
+Len of ToBoard_Que 0
+Final event list: [('PArr', 0.35184196898064596)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  0.35184196898064596
+Tot pass: 2
+Final event list: [('HBE', 0.35184196898064596), ('PArr', 1.41447194161691)]
+----------------------------
+PASSENGER BOARDING EVENT @  0.35184196898064596
+Total PBwait: 0.0
+Len of boarded group 2
+Len of ToBoard_Que 0
+Final event list: [('PArr', 1.41447194161691)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  1.41447194161691
+Tot pass: 3
+Final event list: [('HBE', 1.41447194161691), ('PArr', 2.1816889566531668)]
+----------------------------
+PASSENGER BOARDING EVENT @  1.41447194161691
+Total PBwait: 0.0
+Len of boarded group 3
+Len of ToBoard_Que 0
+Final event list: [('PArr', 2.1816889566531668)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  2.1816889566531668
+Tot pass: 4
+Final event list: [('HBE', 2.1816889566531668), ('PArr', 2.8544178092754606)]
+----------------------------
+PASSENGER BOARDING EVENT @  2.1816889566531668
+Total PBwait: 0.0
+Len of boarded group 4
+Len of ToBoard_Que 0
+Final event list: [('PArr', 2.8544178092754606)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  2.8544178092754606
+Tot pass: 5
+Final event list: [('HBE', 2.8544178092754606), ('PArr', 3.5084431013108395)]
+----------------------------
+PASSENGER BOARDING EVENT @  2.8544178092754606
+Total PBwait: 0.0
+Len of boarded group 5
+Len of ToBoard_Que 0
+Final event list: [('PArr', 3.5084431013108395)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  3.5084431013108395
+Tot pass: 6
+Final event list: [('HBE', 3.5084431013108395), ('PArr', 5.365045169210652)]
+----------------------------
+PASSENGER BOARDING EVENT @  3.5084431013108395
+Total PBwait: 0.0
+Len of boarded group 6
+Len of ToBoard_Que 0
+Final event list: [('PArr', 5.365045169210652)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  5.365045169210652
+Tot pass: 7
+Final event list: [('HBE', 5.365045169210652), ('PArr', 7.4038500994152585)]
+----------------------------
+PASSENGER BOARDING EVENT @  5.365045169210652
+Total PBwait: 0.0
+Len of boarded group 7
+Len of ToBoard_Que 0
+Final event list: [('PArr', 7.4038500994152585)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  7.4038500994152585
+Tot pass: 8
+Final event list: [('HBE', 7.4038500994152585), ('PArr', 11.992506655248242)]
+----------------------------
+PASSENGER BOARDING EVENT @  7.4038500994152585
+Total PBwait: 0.0
+Len of boarded group 8
+Len of ToBoard_Que 0
+Final event list: [('PArr', 11.992506655248242)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  11.992506655248242
+Tot pass: 9
+Final event list: [('HBE', 11.992506655248242), ('PArr', 14.601437259226469)]
+----------------------------
+PASSENGER BOARDING EVENT @  11.992506655248242
+Total PBwait: 0.0
+Len of boarded group 9
+Len of ToBoard_Que 0
+Final event list: [('PArr', 14.601437259226469)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  14.601437259226469
+Tot pass: 10
+Final event list: [('HBE', 14.601437259226469), ('PArr', 15.386755807027559)]
+----------------------------
+PASSENGER BOARDING EVENT @  14.601437259226469
+Total PBwait: 0.0
+Len of boarded group 10
+Len of ToBoard_Que 0
+Final event list: [('PArr', 15.386755807027559)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  15.386755807027559
+Tot pass: 11
+Final event list: [('HBE', 15.386755807027559), ('PArr', 15.94750259017741)]
+----------------------------
+PASSENGER BOARDING EVENT @  15.386755807027559
+Total PBwait: 0.0
+Len of boarded group 11
+Len of ToBoard_Que 0
+Final event list: [('PArr', 15.94750259017741)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  15.94750259017741
+Tot pass: 12
+Final event list: [('HBE', 15.94750259017741), ('PArr', 16.255291637243907)]
+----------------------------
+PASSENGER BOARDING EVENT @  15.94750259017741
+Total PBwait: 0.0
+Len of boarded group 12
+Len of ToBoard_Que 0
+Final event list: [('PArr', 16.255291637243907)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  16.255291637243907
+Tot pass: 13
+Final event list: [('HBE', 16.255291637243907), ('PArr', 16.298461707002577)]
+----------------------------
+PASSENGER BOARDING EVENT @  16.255291637243907
+Total PBwait: 0.0
+Len of boarded group 13
+Len of ToBoard_Que 0
+Final event list: [('PArr', 16.298461707002577)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  16.298461707002577
+Tot pass: 14
+Final event list: [('HBE', 16.298461707002577), ('PArr', 18.093018438904537)]
+----------------------------
+PASSENGER BOARDING EVENT @  16.298461707002577
+Total PBwait: 0.0
+Len of boarded group 14
+Len of ToBoard_Que 0
+Final event list: [('PArr', 18.093018438904537)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  18.093018438904537
+Tot pass: 15
+Final event list: [('HBE', 18.093018438904537), ('PArr', 19.404667794241362)]
+----------------------------
+PASSENGER BOARDING EVENT @  18.093018438904537
+Total PBwait: 0.0
+Len of boarded group 15
+Len of ToBoard_Que 0
+Final event list: [('PArr', 19.404667794241362)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  19.404667794241362
+Tot pass: 16
+Final event list: [('HBE', 19.404667794241362), ('HDE', 20), ('PArr', 26.220892584376674)]
+----------------------------
+PASSENGER BOARDING EVENT @  19.404667794241362
+Total PBwait: 0.0
+Len of boarded group 16
+Len of ToBoard_Que 0
+Final event list: [('HDE', 20), ('PArr', 26.220892584376674)]
+----------------------------
+BUS DEPARTURE EVENT @  20
+Final event list: [('PArr', 26.220892584376674), ('BArr', 25.13341088266921)]
+----------------------------
+BUS ARRIVAL EVENT @  25.13341088266921
+Final event list: [('PArr', 26.220892584376674)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  26.220892584376674
+Tot pass: 17
+Final event list: [('HBE', 26.220892584376674), ('PArr', 31.524528008410364)]
+----------------------------
+PASSENGER BOARDING EVENT @  26.220892584376674
+Total PBwait: 0.0
+Len of boarded group 1
+Len of ToBoard_Que 0
+Final event list: [('PArr', 31.524528008410364)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  31.524528008410364
+Tot pass: 18
+Final event list: [('HBE', 31.524528008410364), ('PArr', 32.57605650032436)]
+----------------------------
+PASSENGER BOARDING EVENT @  31.524528008410364
+Total PBwait: 0.0
+Len of boarded group 2
+Len of ToBoard_Que 0
+Final event list: [('PArr', 32.57605650032436)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  32.57605650032436
+Tot pass: 19
+Final event list: [('HBE', 32.57605650032436), ('PArr', 36.022286160428266)]
+----------------------------
+PASSENGER BOARDING EVENT @  32.57605650032436
+Total PBwait: 0.0
+Len of boarded group 3
+Len of ToBoard_Que 0
+Final event list: [('PArr', 36.022286160428266)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  36.022286160428266
+Tot pass: 20
+Final event list: [('HBE', 36.022286160428266), ('PArr', 36.41629905355945)]
+----------------------------
+PASSENGER BOARDING EVENT @  36.022286160428266
+Total PBwait: 0.0
+Len of boarded group 4
+Len of ToBoard_Que 0
+Final event list: [('PArr', 36.41629905355945)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  36.41629905355945
+Tot pass: 21
+Final event list: [('HBE', 36.41629905355945), ('PArr', 37.49219955840013)]
+----------------------------
+PASSENGER BOARDING EVENT @  36.41629905355945
+Total PBwait: 0.0
+Len of boarded group 5
+Len of ToBoard_Que 0
+Final event list: [('PArr', 37.49219955840013)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  37.49219955840013
+Tot pass: 22
+Final event list: [('HBE', 37.49219955840013), ('PArr', 38.54098626776368)]
+----------------------------
+PASSENGER BOARDING EVENT @  37.49219955840013
+Total PBwait: 0.0
+Len of boarded group 6
+Len of ToBoard_Que 0
+Final event list: [('PArr', 38.54098626776368)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  38.54098626776368
+Tot pass: 23
+Final event list: [('HBE', 38.54098626776368), ('PArr', 41.91844408935999)]
+----------------------------
+PASSENGER BOARDING EVENT @  38.54098626776368
+Total PBwait: 0.0
+Len of boarded group 7
+Len of ToBoard_Que 0
+Final event list: [('PArr', 41.91844408935999)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  41.91844408935999
+Tot pass: 24
+Final event list: [('HBE', 41.91844408935999), ('PArr', 42.9026847568006)]
+----------------------------
+PASSENGER BOARDING EVENT @  41.91844408935999
+Total PBwait: 0.0
+Len of boarded group 8
+Len of ToBoard_Que 0
+Final event list: [('PArr', 42.9026847568006)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  42.9026847568006
+Tot pass: 25
+Final event list: [('HBE', 42.9026847568006), ('PArr', 43.38162884950027)]
+----------------------------
+PASSENGER BOARDING EVENT @  42.9026847568006
+Total PBwait: 0.0
+Len of boarded group 9
+Len of ToBoard_Que 0
+Final event list: [('PArr', 43.38162884950027)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  43.38162884950027
+Tot pass: 26
+Final event list: [('HBE', 43.38162884950027), ('HDE', 45.13341088266921), ('PArr', 48.94503333950011)]
+----------------------------
+PASSENGER BOARDING EVENT @  43.38162884950027
+Total PBwait: 0.0
+Len of boarded group 10
+Len of ToBoard_Que 0
+Final event list: [('HDE', 45.13341088266921), ('PArr', 48.94503333950011)]
+----------------------------
+BUS DEPARTURE EVENT @  45.13341088266921
+Final event list: [('PArr', 48.94503333950011), ('BArr', 52.67623235278403)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  48.94503333950011
+Tot pass: 27
+Final event list: [('BArr', 52.67623235278403), ('PArr', 49.98757904766866)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  49.98757904766866
+Tot pass: 28
+Final event list: [('BArr', 52.67623235278403), ('PArr', 50.38075324657209)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  50.38075324657209
+Tot pass: 29
+Final event list: [('BArr', 52.67623235278403), ('PArr', 50.61137575137073)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  50.61137575137073
+Tot pass: 30
+Final event list: [('BArr', 52.67623235278403), ('PArr', 50.89263960854968)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  50.89263960854968
+Tot pass: 31
+Final event list: [('BArr', 52.67623235278403), ('PArr', 54.41641421961204)]
+----------------------------
+BUS ARRIVAL EVENT @  52.67623235278403
+Final event list: [('PArr', 54.41641421961204), ('HBE', 52.67623235278403)]
+----------------------------
+PASSENGER BOARDING EVENT @  52.67623235278403
+Total PBwait: 3.73119901328392
+Len of boarded group 1
+Len of ToBoard_Que 4
+Total PBwait: 6.419852318399286
+Len of boarded group 2
+Len of ToBoard_Que 3
+Total PBwait: 8.715331424611222
+Len of boarded group 3
+Len of ToBoard_Que 2
+Total PBwait: 10.780188026024518
+Len of boarded group 4
+Len of ToBoard_Que 1
+Total PBwait: 12.563780770258866
+Len of boarded group 5
+Len of ToBoard_Que 0
+Final event list: [('PArr', 54.41641421961204)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  54.41641421961204
+Tot pass: 32
+Final event list: [('HBE', 54.41641421961204), ('PArr', 55.94575536728649)]
+----------------------------
+PASSENGER BOARDING EVENT @  54.41641421961204
+Total PBwait: 12.563780770258866
+Len of boarded group 6
+Len of ToBoard_Que 0
+Final event list: [('PArr', 55.94575536728649)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  55.94575536728649
+Tot pass: 33
+Final event list: [('HBE', 55.94575536728649), ('PArr', 56.93611754867187)]
+----------------------------
+PASSENGER BOARDING EVENT @  55.94575536728649
+Total PBwait: 12.563780770258866
+Len of boarded group 7
+Len of ToBoard_Que 0
+Final event list: [('PArr', 56.93611754867187)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  56.93611754867187
+Tot pass: 34
+Final event list: [('HBE', 56.93611754867187), ('PArr', 58.77985020014962)]
+----------------------------
+PASSENGER BOARDING EVENT @  56.93611754867187
+Total PBwait: 12.563780770258866
+Len of boarded group 8
+Len of ToBoard_Que 0
+Final event list: [('PArr', 58.77985020014962)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  58.77985020014962
+Tot pass: 35
+Final event list: [('HBE', 58.77985020014962), ('PArr', 61.755973123619526)]
+----------------------------
+PASSENGER BOARDING EVENT @  58.77985020014962
+Total PBwait: 12.563780770258866
+Len of boarded group 9
+Len of ToBoard_Que 0
+Final event list: [('PArr', 61.755973123619526)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  61.755973123619526
+Tot pass: 36
+Final event list: [('HBE', 61.755973123619526), ('PArr', 62.86411936297708)]
+----------------------------
+PASSENGER BOARDING EVENT @  61.755973123619526
+Total PBwait: 12.563780770258866
+Len of boarded group 10
+Len of ToBoard_Que 0
+Final event list: [('PArr', 62.86411936297708)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  62.86411936297708
+Tot pass: 37
+Final event list: [('HBE', 62.86411936297708), ('PArr', 67.61526926224153)]
+----------------------------
+PASSENGER BOARDING EVENT @  62.86411936297708
+Total PBwait: 12.563780770258866
+Len of boarded group 11
+Len of ToBoard_Que 0
+Final event list: [('PArr', 67.61526926224153)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  67.61526926224153
+Tot pass: 38
+Final event list: [('HBE', 67.61526926224153), ('PArr', 71.9857295569266)]
+----------------------------
+PASSENGER BOARDING EVENT @  67.61526926224153
+Total PBwait: 12.563780770258866
+Len of boarded group 12
+Len of ToBoard_Que 0
+Final event list: [('PArr', 71.9857295569266)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  71.9857295569266
+Tot pass: 39
+Final event list: [('HBE', 71.9857295569266), ('HDE', 72.67623235278403), ('PArr', 73.09022666149201)]
+----------------------------
+PASSENGER BOARDING EVENT @  71.9857295569266
+Total PBwait: 12.563780770258866
+Len of boarded group 13
+Len of ToBoard_Que 0
+Final event list: [('HDE', 72.67623235278403), ('PArr', 73.09022666149201)]
+----------------------------
+BUS DEPARTURE EVENT @  72.67623235278403
+Final event list: [('PArr', 73.09022666149201), ('BArr', 79.55225693385958)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  73.09022666149201
+Tot pass: 40
+Final event list: [('BArr', 79.55225693385958), ('PArr', 74.9850020795969)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  74.9850020795969
+Tot pass: 41
+Final event list: [('BArr', 79.55225693385958), ('PArr', 75.39147069088115)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  75.39147069088115
+Tot pass: 42
+Final event list: [('BArr', 79.55225693385958), ('PArr', 75.87419260205274)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  75.87419260205274
+Tot pass: 43
+Final event list: [('BArr', 79.55225693385958), ('PArr', 75.94725383251749)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  75.94725383251749
+Tot pass: 44
+Final event list: [('BArr', 79.55225693385958), ('PArr', 77.15919500024636)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  77.15919500024636
+Tot pass: 45
+Final event list: [('BArr', 79.55225693385958), ('PArr', 78.23099473269062)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  78.23099473269062
+Tot pass: 46
+Final event list: [('BArr', 79.55225693385958), ('PArr', 81.76280095446772)]
+----------------------------
+BUS ARRIVAL EVENT @  79.55225693385958
+Final event list: [('PArr', 81.76280095446772), ('HBE', 79.55225693385958)]
+----------------------------
+PASSENGER BOARDING EVENT @  79.55225693385958
+Total PBwait: 19.025811042626437
+Len of boarded group 1
+Len of ToBoard_Que 6
+Total PBwait: 23.593065896889122
+Len of boarded group 2
+Len of ToBoard_Que 5
+Total PBwait: 27.753852139867554
+Len of boarded group 3
+Len of ToBoard_Que 4
+Total PBwait: 31.43191647167439
+Len of boarded group 4
+Len of ToBoard_Que 3
+Total PBwait: 35.03691957301648
+Len of boarded group 5
+Len of ToBoard_Que 2
+Total PBwait: 37.42998150662971
+Len of boarded group 6
+Len of ToBoard_Que 1
+Total PBwait: 38.75124370779867
+Len of boarded group 7
+Len of ToBoard_Que 0
+Final event list: [('PArr', 81.76280095446772)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  81.76280095446772
+Tot pass: 47
+Final event list: [('HBE', 81.76280095446772), ('PArr', 84.00136796421076)]
+----------------------------
+PASSENGER BOARDING EVENT @  81.76280095446772
+Total PBwait: 38.75124370779867
+Len of boarded group 8
+Len of ToBoard_Que 0
+Final event list: [('PArr', 84.00136796421076)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  84.00136796421076
+Tot pass: 48
+Final event list: [('HBE', 84.00136796421076), ('PArr', 86.32153117006666)]
+----------------------------
+PASSENGER BOARDING EVENT @  84.00136796421076
+Total PBwait: 38.75124370779867
+Len of boarded group 9
+Len of ToBoard_Que 0
+Final event list: [('PArr', 86.32153117006666)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  86.32153117006666
+Tot pass: 49
+Final event list: [('HBE', 86.32153117006666), ('PArr', 86.39006796291771)]
+----------------------------
+PASSENGER BOARDING EVENT @  86.32153117006666
+Total PBwait: 38.75124370779867
+Len of boarded group 10
+Len of ToBoard_Que 0
+Final event list: [('PArr', 86.39006796291771)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  86.39006796291771
+Tot pass: 50
+Final event list: [('HBE', 86.39006796291771), ('PArr', 88.17037005382845)]
+----------------------------
+PASSENGER BOARDING EVENT @  86.39006796291771
+Total PBwait: 38.75124370779867
+Len of boarded group 11
+Len of ToBoard_Que 0
+Final event list: [('PArr', 88.17037005382845)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  88.17037005382845
+Tot pass: 51
+Final event list: [('HBE', 88.17037005382845), ('PArr', 88.40037486496409)]
+----------------------------
+PASSENGER BOARDING EVENT @  88.17037005382845
+Total PBwait: 38.75124370779867
+Len of boarded group 12
+Len of ToBoard_Que 0
+Final event list: [('PArr', 88.40037486496409)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  88.40037486496409
+Tot pass: 52
+Final event list: [('HBE', 88.40037486496409), ('PArr', 89.49856741711332)]
+----------------------------
+PASSENGER BOARDING EVENT @  88.40037486496409
+Total PBwait: 38.75124370779867
+Len of boarded group 13
+Len of ToBoard_Que 0
+Final event list: [('PArr', 89.49856741711332)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  89.49856741711332
+Tot pass: 53
+Final event list: [('HBE', 89.49856741711332), ('PArr', 92.68042315924492)]
+----------------------------
+PASSENGER BOARDING EVENT @  89.49856741711332
+Total PBwait: 38.75124370779867
+Len of boarded group 14
+Len of ToBoard_Que 0
+Final event list: [('PArr', 92.68042315924492)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  92.68042315924492
+Tot pass: 54
+Final event list: [('HBE', 92.68042315924492), ('PArr', 93.9037300063485)]
+----------------------------
+PASSENGER BOARDING EVENT @  92.68042315924492
+Total PBwait: 38.75124370779867
+Len of boarded group 15
+Len of ToBoard_Que 0
+Final event list: [('PArr', 93.9037300063485)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  93.9037300063485
+Tot pass: 55
+Final event list: [('HBE', 93.9037300063485), ('PArr', 96.00932109163689)]
+----------------------------
+PASSENGER BOARDING EVENT @  93.9037300063485
+Total PBwait: 38.75124370779867
+Len of boarded group 16
+Len of ToBoard_Que 0
+Final event list: [('PArr', 96.00932109163689)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  96.00932109163689
+Tot pass: 56
+Final event list: [('HBE', 96.00932109163689), ('PArr', 97.17367619021555)]
+----------------------------
+PASSENGER BOARDING EVENT @  96.00932109163689
+Total PBwait: 38.75124370779867
+Len of boarded group 17
+Len of ToBoard_Que 0
+Final event list: [('PArr', 97.17367619021555)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  97.17367619021555
+Tot pass: 57
+Final event list: [('HBE', 97.17367619021555), ('HDE', 99.55225693385958), ('PArr', 100.52927941633375)]
+----------------------------
+PASSENGER BOARDING EVENT @  97.17367619021555
+Total PBwait: 38.75124370779867
+Len of boarded group 18
+Len of ToBoard_Que 0
+Final event list: [('HDE', 99.55225693385958), ('PArr', 100.52927941633375)]
+----------------------------
+BUS DEPARTURE EVENT @  99.55225693385958
+Final event list: [('PArr', 100.52927941633375), ('BArr', 105.99255895528454)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  100.52927941633375
+Tot pass: 58
+Final event list: [('BArr', 105.99255895528454), ('PArr', 102.43748312847052)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  102.43748312847052
+Tot pass: 59
+Final event list: [('BArr', 105.99255895528454), ('PArr', 102.84819106201485)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  102.84819106201485
+Tot pass: 60
+Final event list: [('BArr', 105.99255895528454), ('PArr', 106.51949907720457)]
+----------------------------
+BUS ARRIVAL EVENT @  105.99255895528454
+Final event list: [('PArr', 106.51949907720457), ('HBE', 105.99255895528454)]
+----------------------------
+PASSENGER BOARDING EVENT @  105.99255895528454
+Total PBwait: 44.21452324674946
+Len of boarded group 1
+Len of ToBoard_Que 2
+Total PBwait: 47.76959907356348
+Len of boarded group 2
+Len of ToBoard_Que 1
+Total PBwait: 50.913966966833165
+Len of boarded group 3
+Len of ToBoard_Que 0
+Final event list: [('PArr', 106.51949907720457)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  106.51949907720457
+Tot pass: 61
+Final event list: [('HBE', 106.51949907720457), ('PArr', 112.42309328531577)]
+----------------------------
+PASSENGER BOARDING EVENT @  106.51949907720457
+Total PBwait: 50.913966966833165
+Len of boarded group 4
+Len of ToBoard_Que 0
+Final event list: [('PArr', 112.42309328531577)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  112.42309328531577
+Tot pass: 62
+Final event list: [('HBE', 112.42309328531577), ('PArr', 118.76007307275319)]
+----------------------------
+PASSENGER BOARDING EVENT @  112.42309328531577
+Total PBwait: 50.913966966833165
+Len of boarded group 5
+Len of ToBoard_Que 0
+Final event list: [('PArr', 118.76007307275319)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  118.76007307275319
+Tot pass: 63
+Final event list: [('HBE', 118.76007307275319), ('HDE', 125.99255895528454), ('PArr', 128.78816003215977)]
+----------------------------
+PASSENGER BOARDING EVENT @  118.76007307275319
+Total PBwait: 50.913966966833165
+Len of boarded group 6
+Len of ToBoard_Que 0
+Final event list: [('HDE', 125.99255895528454), ('PArr', 128.78816003215977)]
+----------------------------
+BUS DEPARTURE EVENT @  125.99255895528454
+Final event list: [('PArr', 128.78816003215977), ('BArr', 134.4222008901952)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  128.78816003215977
+Tot pass: 64
+Final event list: [('BArr', 134.4222008901952), ('PArr', 129.78253677177605)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  129.78253677177605
+Tot pass: 65
+Final event list: [('BArr', 134.4222008901952), ('PArr', 130.13466626641772)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  130.13466626641772
+Tot pass: 66
+Final event list: [('BArr', 134.4222008901952), ('PArr', 130.50217673570486)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  130.50217673570486
+Tot pass: 67
+Final event list: [('BArr', 134.4222008901952), ('PArr', 130.94420651803946)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  130.94420651803946
+Tot pass: 68
+Final event list: [('BArr', 134.4222008901952), ('PArr', 132.6502183183918)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  132.6502183183918
+Tot pass: 69
+Final event list: [('BArr', 134.4222008901952), ('PArr', 135.49562622721072)]
+----------------------------
+BUS ARRIVAL EVENT @  134.4222008901952
+Final event list: [('PArr', 135.49562622721072), ('HBE', 134.4222008901952)]
+----------------------------
+PASSENGER BOARDING EVENT @  134.4222008901952
+Total PBwait: 56.5480078248686
+Len of boarded group 1
+Len of ToBoard_Que 5
+Total PBwait: 61.18767194328775
+Len of boarded group 2
+Len of ToBoard_Que 4
+Total PBwait: 65.47520656706521
+Len of boarded group 3
+Len of ToBoard_Que 3
+Total PBwait: 69.39523072155555
+Len of boarded group 4
+Len of ToBoard_Que 2
+Total PBwait: 72.87322509371128
+Len of boarded group 5
+Len of ToBoard_Que 1
+Total PBwait: 74.64520766551468
+Len of boarded group 6
+Len of ToBoard_Que 0
+Final event list: [('PArr', 135.49562622721072)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  135.49562622721072
+Tot pass: 70
+Final event list: [('HBE', 135.49562622721072), ('PArr', 139.75522724395253)]
+----------------------------
+PASSENGER BOARDING EVENT @  135.49562622721072
+Total PBwait: 74.64520766551468
+Len of boarded group 7
+Len of ToBoard_Que 0
+Final event list: [('PArr', 139.75522724395253)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  139.75522724395253
+Tot pass: 71
+Final event list: [('HBE', 139.75522724395253), ('PArr', 141.6120337830202)]
+----------------------------
+PASSENGER BOARDING EVENT @  139.75522724395253
+Total PBwait: 74.64520766551468
+Len of boarded group 8
+Len of ToBoard_Que 0
+Final event list: [('PArr', 141.6120337830202)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  141.6120337830202
+Tot pass: 72
+Final event list: [('HBE', 141.6120337830202), ('PArr', 142.06377467112276)]
+----------------------------
+PASSENGER BOARDING EVENT @  141.6120337830202
+Total PBwait: 74.64520766551468
+Len of boarded group 9
+Len of ToBoard_Que 0
+Final event list: [('PArr', 142.06377467112276)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  142.06377467112276
+Tot pass: 73
+Final event list: [('HBE', 142.06377467112276), ('PArr', 143.08230596610036)]
+----------------------------
+PASSENGER BOARDING EVENT @  142.06377467112276
+Total PBwait: 74.64520766551468
+Len of boarded group 10
+Len of ToBoard_Que 0
+Final event list: [('PArr', 143.08230596610036)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  143.08230596610036
+Tot pass: 74
+Final event list: [('HBE', 143.08230596610036), ('PArr', 143.39796825870596)]
+----------------------------
+PASSENGER BOARDING EVENT @  143.08230596610036
+Total PBwait: 74.64520766551468
+Len of boarded group 11
+Len of ToBoard_Que 0
+Final event list: [('PArr', 143.39796825870596)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  143.39796825870596
+Tot pass: 75
+Final event list: [('HBE', 143.39796825870596), ('PArr', 143.93693368159848)]
+----------------------------
+PASSENGER BOARDING EVENT @  143.39796825870596
+Total PBwait: 74.64520766551468
+Len of boarded group 12
+Len of ToBoard_Que 0
+Final event list: [('PArr', 143.93693368159848)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  143.93693368159848
+Tot pass: 76
+Final event list: [('HBE', 143.93693368159848), ('PArr', 145.78355919972228)]
+----------------------------
+PASSENGER BOARDING EVENT @  143.93693368159848
+Total PBwait: 74.64520766551468
+Len of boarded group 13
+Len of ToBoard_Que 0
+Final event list: [('PArr', 145.78355919972228)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  145.78355919972228
+Tot pass: 77
+Final event list: [('HBE', 145.78355919972228), ('PArr', 145.79844230115535)]
+----------------------------
+PASSENGER BOARDING EVENT @  145.78355919972228
+Total PBwait: 74.64520766551468
+Len of boarded group 14
+Len of ToBoard_Que 0
+Final event list: [('PArr', 145.79844230115535)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  145.79844230115535
+Tot pass: 78
+Final event list: [('HBE', 145.79844230115535), ('PArr', 149.41150799044175)]
+----------------------------
+PASSENGER BOARDING EVENT @  145.79844230115535
+Total PBwait: 74.64520766551468
+Len of boarded group 15
+Len of ToBoard_Que 0
+Final event list: [('PArr', 149.41150799044175)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  149.41150799044175
+Tot pass: 79
+Final event list: [('HBE', 149.41150799044175), ('PArr', 151.59232551834077)]
+----------------------------
+PASSENGER BOARDING EVENT @  149.41150799044175
+Total PBwait: 74.64520766551468
+Len of boarded group 16
+Len of ToBoard_Que 0
+Final event list: [('PArr', 151.59232551834077)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  151.59232551834077
+Tot pass: 80
+Final event list: [('HBE', 151.59232551834077), ('HDE', 154.4222008901952), ('PArr', 162.55063368847908)]
+----------------------------
+PASSENGER BOARDING EVENT @  151.59232551834077
+Total PBwait: 74.64520766551468
+Len of boarded group 17
+Len of ToBoard_Que 0
+Final event list: [('HDE', 154.4222008901952), ('PArr', 162.55063368847908)]
+----------------------------
+BUS DEPARTURE EVENT @  154.4222008901952
+Final event list: [('PArr', 162.55063368847908), ('BArr', 162.93227831189708)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  162.55063368847908
+Tot pass: 81
+Final event list: [('BArr', 162.93227831189708), ('PArr', 162.97566155187926)]
+----------------------------
+BUS ARRIVAL EVENT @  162.93227831189708
+Final event list: [('PArr', 162.97566155187926), ('HBE', 162.93227831189708)]
+----------------------------
+PASSENGER BOARDING EVENT @  162.93227831189708
+Total PBwait: 75.02685228893267
+Len of boarded group 1
+Len of ToBoard_Que 0
+Final event list: [('PArr', 162.97566155187926)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  162.97566155187926
+Tot pass: 82
+Final event list: [('HBE', 162.97566155187926), ('PArr', 165.35436276715424)]
+----------------------------
+PASSENGER BOARDING EVENT @  162.97566155187926
+Total PBwait: 75.02685228893267
+Len of boarded group 2
+Len of ToBoard_Que 0
+Final event list: [('PArr', 165.35436276715424)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  165.35436276715424
+Tot pass: 83
+Final event list: [('HBE', 165.35436276715424), ('PArr', 166.21144100484977)]
+----------------------------
+PASSENGER BOARDING EVENT @  165.35436276715424
+Total PBwait: 75.02685228893267
+Len of boarded group 3
+Len of ToBoard_Que 0
+Final event list: [('PArr', 166.21144100484977)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  166.21144100484977
+Tot pass: 84
+Final event list: [('HBE', 166.21144100484977), ('PArr', 166.2226965215366)]
+----------------------------
+PASSENGER BOARDING EVENT @  166.21144100484977
+Total PBwait: 75.02685228893267
+Len of boarded group 4
+Len of ToBoard_Que 0
+Final event list: [('PArr', 166.2226965215366)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  166.2226965215366
+Tot pass: 85
+Final event list: [('HBE', 166.2226965215366), ('PArr', 166.5995276262433)]
+----------------------------
+PASSENGER BOARDING EVENT @  166.2226965215366
+Total PBwait: 75.02685228893267
+Len of boarded group 5
+Len of ToBoard_Que 0
+Final event list: [('PArr', 166.5995276262433)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  166.5995276262433
+Tot pass: 86
+Final event list: [('HBE', 166.5995276262433), ('PArr', 166.99474774745195)]
+----------------------------
+PASSENGER BOARDING EVENT @  166.5995276262433
+Total PBwait: 75.02685228893267
+Len of boarded group 6
+Len of ToBoard_Que 0
+Final event list: [('PArr', 166.99474774745195)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  166.99474774745195
+Tot pass: 87
+Final event list: [('HBE', 166.99474774745195), ('PArr', 173.31495262941078)]
+----------------------------
+PASSENGER BOARDING EVENT @  166.99474774745195
+Total PBwait: 75.02685228893267
+Len of boarded group 7
+Len of ToBoard_Que 0
+Final event list: [('PArr', 173.31495262941078)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  173.31495262941078
+Tot pass: 88
+Final event list: [('HBE', 173.31495262941078), ('PArr', 174.07923140456467)]
+----------------------------
+PASSENGER BOARDING EVENT @  173.31495262941078
+Total PBwait: 75.02685228893267
+Len of boarded group 8
+Len of ToBoard_Que 0
+Final event list: [('PArr', 174.07923140456467)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  174.07923140456467
+Tot pass: 89
+Final event list: [('HBE', 174.07923140456467), ('PArr', 174.59951005657453)]
+----------------------------
+PASSENGER BOARDING EVENT @  174.07923140456467
+Total PBwait: 75.02685228893267
+Len of boarded group 9
+Len of ToBoard_Que 0
+Final event list: [('PArr', 174.59951005657453)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  174.59951005657453
+Tot pass: 90
+Final event list: [('HBE', 174.59951005657453), ('PArr', 175.5408364467923)]
+----------------------------
+PASSENGER BOARDING EVENT @  174.59951005657453
+Total PBwait: 75.02685228893267
+Len of boarded group 10
+Len of ToBoard_Que 0
+Final event list: [('PArr', 175.5408364467923)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  175.5408364467923
+Tot pass: 91
+Final event list: [('HBE', 175.5408364467923), ('PArr', 182.55254382216728)]
+----------------------------
+PASSENGER BOARDING EVENT @  175.5408364467923
+Total PBwait: 75.02685228893267
+Len of boarded group 11
+Len of ToBoard_Que 0
+Final event list: [('PArr', 182.55254382216728)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  182.55254382216728
+Tot pass: 92
+Final event list: [('HBE', 182.55254382216728), ('HDE', 182.93227831189708), ('PArr', 184.74593233597062)]
+----------------------------
+PASSENGER BOARDING EVENT @  182.55254382216728
+Total PBwait: 75.02685228893267
+Len of boarded group 12
+Len of ToBoard_Que 0
+Final event list: [('HDE', 182.93227831189708), ('PArr', 184.74593233597062)]
+----------------------------
+BUS DEPARTURE EVENT @  182.93227831189708
+Final event list: [('PArr', 184.74593233597062), ('BArr', 192.7370685657556)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  184.74593233597062
+Tot pass: 93
+Final event list: [('BArr', 192.7370685657556), ('PArr', 189.69085230024604)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  189.69085230024604
+Tot pass: 94
+Final event list: [('BArr', 192.7370685657556), ('PArr', 192.22570154841029)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  192.22570154841029
+Tot pass: 95
+Final event list: [('BArr', 192.7370685657556), ('PArr', 192.33148647717556)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  192.33148647717556
+Tot pass: 96
+Final event list: [('BArr', 192.7370685657556), ('PArr', 205.58562965988784)]
+----------------------------
+BUS ARRIVAL EVENT @  192.7370685657556
+Final event list: [('PArr', 205.58562965988784), ('HBE', 192.7370685657556)]
+----------------------------
+PASSENGER BOARDING EVENT @  192.7370685657556
+Total PBwait: 83.01798851871766
+Len of boarded group 1
+Len of ToBoard_Que 3
+Total PBwait: 86.06420478422723
+Len of boarded group 2
+Len of ToBoard_Que 2
+Total PBwait: 86.57557180157255
+Len of boarded group 3
+Len of ToBoard_Que 1
+Total PBwait: 86.9811538901526
+Len of boarded group 4
+Len of ToBoard_Que 0
+Final event list: [('PArr', 205.58562965988784)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  205.58562965988784
+Tot pass: 97
+Final event list: [('HBE', 205.58562965988784), ('PArr', 212.3006828091853)]
+----------------------------
+PASSENGER BOARDING EVENT @  205.58562965988784
+Total PBwait: 86.9811538901526
+Len of boarded group 5
+Len of ToBoard_Que 0
+Final event list: [('PArr', 212.3006828091853)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  212.3006828091853
+Tot pass: 98
+Final event list: [('HBE', 212.3006828091853), ('HDE', 212.7370685657556), ('PArr', 215.27182790631812)]
+----------------------------
+PASSENGER BOARDING EVENT @  212.3006828091853
+Total PBwait: 86.9811538901526
+Len of boarded group 6
+Len of ToBoard_Que 0
+Final event list: [('HDE', 212.7370685657556), ('PArr', 215.27182790631812)]
+----------------------------
+BUS DEPARTURE EVENT @  212.7370685657556
+Final event list: [('PArr', 215.27182790631812), ('BArr', 218.2941451658944)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  215.27182790631812
+Tot pass: 99
+Final event list: [('BArr', 218.2941451658944), ('PArr', 221.62494980079552)]
+----------------------------
+BUS ARRIVAL EVENT @  218.2941451658944
+Final event list: [('PArr', 221.62494980079552), ('HBE', 218.2941451658944)]
+----------------------------
+PASSENGER BOARDING EVENT @  218.2941451658944
+Total PBwait: 90.00347114972888
+Len of boarded group 1
+Len of ToBoard_Que 0
+Final event list: [('PArr', 221.62494980079552)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  221.62494980079552
+Tot pass: 100
+Final event list: [('HBE', 221.62494980079552), ('PArr', 222.4720294864035)]
+----------------------------
+PASSENGER BOARDING EVENT @  221.62494980079552
+Total PBwait: 90.00347114972888
+Len of boarded group 2
+Len of ToBoard_Que 0
+Final event list: [('PArr', 222.4720294864035)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  222.4720294864035
+Tot pass: 101
+Final event list: [('HBE', 222.4720294864035), ('PArr', 222.78510162241724)]
+----------------------------
+PASSENGER BOARDING EVENT @  222.4720294864035
+Total PBwait: 90.00347114972888
+Len of boarded group 3
+Len of ToBoard_Que 0
+Final event list: [('PArr', 222.78510162241724)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  222.78510162241724
+Tot pass: 102
+Final event list: [('HBE', 222.78510162241724), ('PArr', 224.89704440853612)]
+----------------------------
+PASSENGER BOARDING EVENT @  222.78510162241724
+Total PBwait: 90.00347114972888
+Len of boarded group 4
+Len of ToBoard_Que 0
+Final event list: [('PArr', 224.89704440853612)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  224.89704440853612
+Tot pass: 103
+Final event list: [('HBE', 224.89704440853612), ('PArr', 225.6234632089247)]
+----------------------------
+PASSENGER BOARDING EVENT @  224.89704440853612
+Total PBwait: 90.00347114972888
+Len of boarded group 5
+Len of ToBoard_Que 0
+Final event list: [('PArr', 225.6234632089247)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  225.6234632089247
+Tot pass: 104
+Final event list: [('HBE', 225.6234632089247), ('PArr', 225.82370338710308)]
+----------------------------
+PASSENGER BOARDING EVENT @  225.6234632089247
+Total PBwait: 90.00347114972888
+Len of boarded group 6
+Len of ToBoard_Que 0
+Final event list: [('PArr', 225.82370338710308)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  225.82370338710308
+Tot pass: 105
+Final event list: [('HBE', 225.82370338710308), ('PArr', 232.60335834346478)]
+----------------------------
+PASSENGER BOARDING EVENT @  225.82370338710308
+Total PBwait: 90.00347114972888
+Len of boarded group 7
+Len of ToBoard_Que 0
+Final event list: [('PArr', 232.60335834346478)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  232.60335834346478
+Tot pass: 106
+Final event list: [('HBE', 232.60335834346478), ('PArr', 234.37043574328223)]
+----------------------------
+PASSENGER BOARDING EVENT @  232.60335834346478
+Total PBwait: 90.00347114972888
+Len of boarded group 8
+Len of ToBoard_Que 0
+Final event list: [('PArr', 234.37043574328223)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  234.37043574328223
+Tot pass: 107
+Final event list: [('HBE', 234.37043574328223), ('PArr', 234.6893191412681)]
+----------------------------
+PASSENGER BOARDING EVENT @  234.37043574328223
+Total PBwait: 90.00347114972888
+Len of boarded group 9
+Len of ToBoard_Que 0
+Final event list: [('PArr', 234.6893191412681)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  234.6893191412681
+Tot pass: 108
+Final event list: [('HBE', 234.6893191412681), ('PArr', 237.4205265528189)]
+----------------------------
+PASSENGER BOARDING EVENT @  234.6893191412681
+Total PBwait: 90.00347114972888
+Len of boarded group 10
+Len of ToBoard_Que 0
+Final event list: [('PArr', 237.4205265528189)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  237.4205265528189
+Tot pass: 109
+Final event list: [('HBE', 237.4205265528189), ('HDE', 238.2941451658944), ('PArr', 239.16630666955223)]
+----------------------------
+PASSENGER BOARDING EVENT @  237.4205265528189
+Total PBwait: 90.00347114972888
+Len of boarded group 11
+Len of ToBoard_Que 0
+Final event list: [('HDE', 238.2941451658944), ('PArr', 239.16630666955223)]
+----------------------------
+BUS DEPARTURE EVENT @  238.2941451658944
+Final event list: [('PArr', 239.16630666955223), ('BArr', 247.5028312839791)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  239.16630666955223
+Tot pass: 110
+Final event list: [('BArr', 247.5028312839791), ('PArr', 239.3405525341922)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  239.3405525341922
+Tot pass: 111
+Final event list: [('BArr', 247.5028312839791), ('PArr', 241.45547898803528)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  241.45547898803528
+Tot pass: 112
+Final event list: [('BArr', 247.5028312839791), ('PArr', 241.49725420037163)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  241.49725420037163
+Tot pass: 113
+Final event list: [('BArr', 247.5028312839791), ('PArr', 243.8867356502397)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  243.8867356502397
+Tot pass: 114
+Final event list: [('BArr', 247.5028312839791), ('PArr', 245.53601983675134)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  245.53601983675134
+Tot pass: 115
+Final event list: [('BArr', 247.5028312839791), ('PArr', 245.66153489389606)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  245.66153489389606
+Tot pass: 116
+Final event list: [('BArr', 247.5028312839791), ('PArr', 247.7196493952466)]
+----------------------------
+BUS ARRIVAL EVENT @  247.5028312839791
+Final event list: [('PArr', 247.7196493952466), ('HBE', 247.5028312839791)]
+----------------------------
+PASSENGER BOARDING EVENT @  247.5028312839791
+Total PBwait: 98.33999576415576
+Len of boarded group 1
+Len of ToBoard_Que 6
+Total PBwait: 106.50227451394267
+Len of boarded group 2
+Len of ToBoard_Que 5
+Total PBwait: 112.54962680988649
+Len of boarded group 3
+Len of ToBoard_Que 4
+Total PBwait: 118.55520389349397
+Len of boarded group 4
+Len of ToBoard_Que 3
+Total PBwait: 122.17129952723337
+Len of boarded group 5
+Len of ToBoard_Que 2
+Total PBwait: 124.13811097446114
+Len of boarded group 6
+Len of ToBoard_Que 1
+Total PBwait: 125.97940736454419
+Len of boarded group 7
+Len of ToBoard_Que 0
+Final event list: [('PArr', 247.7196493952466)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  247.7196493952466
+Tot pass: 117
+Final event list: [('HBE', 247.7196493952466), ('PArr', 256.99219773012624)]
+----------------------------
+PASSENGER BOARDING EVENT @  247.7196493952466
+Total PBwait: 125.97940736454419
+Len of boarded group 8
+Len of ToBoard_Que 0
+Final event list: [('PArr', 256.99219773012624)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  256.99219773012624
+Tot pass: 118
+Final event list: [('HBE', 256.99219773012624), ('PArr', 258.7247389669144)]
+----------------------------
+PASSENGER BOARDING EVENT @  256.99219773012624
+Total PBwait: 125.97940736454419
+Len of boarded group 9
+Len of ToBoard_Que 0
+Final event list: [('PArr', 258.7247389669144)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  258.7247389669144
+Tot pass: 119
+Final event list: [('HBE', 258.7247389669144), ('PArr', 262.3443015624856)]
+----------------------------
+PASSENGER BOARDING EVENT @  258.7247389669144
+Total PBwait: 125.97940736454419
+Len of boarded group 10
+Len of ToBoard_Que 0
+Final event list: [('PArr', 262.3443015624856)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  262.3443015624856
+Tot pass: 120
+Final event list: [('HBE', 262.3443015624856), ('PArr', 264.25234010266587)]
+----------------------------
+PASSENGER BOARDING EVENT @  262.3443015624856
+Total PBwait: 125.97940736454419
+Len of boarded group 11
+Len of ToBoard_Que 0
+Final event list: [('PArr', 264.25234010266587)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  264.25234010266587
+Tot pass: 121
+Final event list: [('HBE', 264.25234010266587), ('PArr', 265.9497248569137)]
+----------------------------
+PASSENGER BOARDING EVENT @  264.25234010266587
+Total PBwait: 125.97940736454419
+Len of boarded group 12
+Len of ToBoard_Que 0
+Final event list: [('PArr', 265.9497248569137)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  265.9497248569137
+Tot pass: 122
+Final event list: [('HBE', 265.9497248569137), ('HDE', 267.5028312839791), ('PArr', 272.10903481982535)]
+----------------------------
+PASSENGER BOARDING EVENT @  265.9497248569137
+Total PBwait: 125.97940736454419
+Len of boarded group 13
+Len of ToBoard_Que 0
+Final event list: [('HDE', 267.5028312839791), ('PArr', 272.10903481982535)]
+----------------------------
+BUS DEPARTURE EVENT @  267.5028312839791
+Final event list: [('PArr', 272.10903481982535), ('BArr', 274.60200008663224)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  272.10903481982535
+Tot pass: 123
+Final event list: [('BArr', 274.60200008663224), ('PArr', 274.8201857012805)]
+----------------------------
+BUS ARRIVAL EVENT @  274.60200008663224
+Final event list: [('PArr', 274.8201857012805), ('HBE', 274.60200008663224)]
+----------------------------
+PASSENGER BOARDING EVENT @  274.60200008663224
+Total PBwait: 128.47237263135108
+Len of boarded group 1
+Len of ToBoard_Que 0
+Final event list: [('PArr', 274.8201857012805)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  274.8201857012805
+Tot pass: 124
+Final event list: [('HBE', 274.8201857012805), ('PArr', 275.70656767082374)]
+----------------------------
+PASSENGER BOARDING EVENT @  274.8201857012805
+Total PBwait: 128.47237263135108
+Len of boarded group 2
+Len of ToBoard_Que 0
+Final event list: [('PArr', 275.70656767082374)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  275.70656767082374
+Tot pass: 125
+Final event list: [('HBE', 275.70656767082374), ('PArr', 279.01914574168524)]
+----------------------------
+PASSENGER BOARDING EVENT @  275.70656767082374
+Total PBwait: 128.47237263135108
+Len of boarded group 3
+Len of ToBoard_Que 0
+Final event list: [('PArr', 279.01914574168524)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  279.01914574168524
+Tot pass: 126
+Final event list: [('HBE', 279.01914574168524), ('PArr', 283.9858888160665)]
+----------------------------
+PASSENGER BOARDING EVENT @  279.01914574168524
+Total PBwait: 128.47237263135108
+Len of boarded group 4
+Len of ToBoard_Que 0
+Final event list: [('PArr', 283.9858888160665)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  283.9858888160665
+Tot pass: 127
+Final event list: [('HBE', 283.9858888160665), ('PArr', 284.6972939335659)]
+----------------------------
+PASSENGER BOARDING EVENT @  283.9858888160665
+Total PBwait: 128.47237263135108
+Len of boarded group 5
+Len of ToBoard_Que 0
+Final event list: [('PArr', 284.6972939335659)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  284.6972939335659
+Tot pass: 128
+Final event list: [('HBE', 284.6972939335659), ('PArr', 284.85119491682724)]
+----------------------------
+PASSENGER BOARDING EVENT @  284.6972939335659
+Total PBwait: 128.47237263135108
+Len of boarded group 6
+Len of ToBoard_Que 0
+Final event list: [('PArr', 284.85119491682724)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  284.85119491682724
+Tot pass: 129
+Final event list: [('HBE', 284.85119491682724), ('PArr', 284.8886741471715)]
+----------------------------
+PASSENGER BOARDING EVENT @  284.85119491682724
+Total PBwait: 128.47237263135108
+Len of boarded group 7
+Len of ToBoard_Que 0
+Final event list: [('PArr', 284.8886741471715)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  284.8886741471715
+Tot pass: 130
+Final event list: [('HBE', 284.8886741471715), ('PArr', 285.5959007011081)]
+----------------------------
+PASSENGER BOARDING EVENT @  284.8886741471715
+Total PBwait: 128.47237263135108
+Len of boarded group 8
+Len of ToBoard_Que 0
+Final event list: [('PArr', 285.5959007011081)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  285.5959007011081
+Tot pass: 131
+Final event list: [('HBE', 285.5959007011081), ('PArr', 286.9755087036738)]
+----------------------------
+PASSENGER BOARDING EVENT @  285.5959007011081
+Total PBwait: 128.47237263135108
+Len of boarded group 9
+Len of ToBoard_Que 0
+Final event list: [('PArr', 286.9755087036738)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  286.9755087036738
+Tot pass: 132
+Final event list: [('HBE', 286.9755087036738), ('PArr', 287.0048483156706)]
+----------------------------
+PASSENGER BOARDING EVENT @  286.9755087036738
+Total PBwait: 128.47237263135108
+Len of boarded group 10
+Len of ToBoard_Que 0
+Final event list: [('PArr', 287.0048483156706)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  287.0048483156706
+Tot pass: 133
+Final event list: [('HBE', 287.0048483156706), ('PArr', 290.9443408557396)]
+----------------------------
+PASSENGER BOARDING EVENT @  287.0048483156706
+Total PBwait: 128.47237263135108
+Len of boarded group 11
+Len of ToBoard_Que 0
+Final event list: [('PArr', 290.9443408557396)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  290.9443408557396
+Tot pass: 134
+Final event list: [('HBE', 290.9443408557396), ('PArr', 291.44398476156755)]
+----------------------------
+PASSENGER BOARDING EVENT @  290.9443408557396
+Total PBwait: 128.47237263135108
+Len of boarded group 12
+Len of ToBoard_Que 0
+Final event list: [('PArr', 291.44398476156755)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  291.44398476156755
+Tot pass: 135
+Final event list: [('HBE', 291.44398476156755), ('PArr', 292.8878782425521)]
+----------------------------
+PASSENGER BOARDING EVENT @  291.44398476156755
+Total PBwait: 128.47237263135108
+Len of boarded group 13
+Len of ToBoard_Que 0
+Final event list: [('PArr', 292.8878782425521)]
+----------------------------
+PASSENGER ARRIVAL EVENT @  292.8878782425521
+Tot pass: 136
+Final event list: [('HBE', 292.8878782425521), ('HDE', 294.60200008663224), ('PArr', 300.6528609607124)]
+----------------------------
+PASSENGER BOARDING EVENT @  292.8878782425521
+Total PBwait: 128.47237263135108
+Len of boarded group 14
+Len of ToBoard_Que 0
+Final event list: [('HDE', 294.60200008663224), ('PArr', 300.6528609607124)]
+----------------------------
+BUS DEPARTURE EVENT @  294.60200008663224
+Final event list: [('PArr', 300.6528609607124), ('BArr', 303.89867962654466)]
+----------------------------
+Simulation Final Time Reached, No more passengers
+Final event list: [('BArr', 303.89867962654466)]
+----------------------------
+BUS ARRIVAL EVENT @  303.89867962654466
+Final event list: []
+----------------------------
+total pass 136
+total pass 128.47237263135108 0.0
+total trips 11
+[Finished in 0.4s]
